@@ -16,6 +16,8 @@
 //
 // SPDX-License-Identifier: LGPL-3.0
 
+// Package gitlab implements a wrapper around go-gitlab that supports
+// mocking.
 package gitlab
 
 import (
